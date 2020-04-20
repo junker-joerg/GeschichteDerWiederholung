@@ -1,0 +1,23 @@
+# Musik
+
+Musik erzählt eine Geschichte und erzeugt Stimmungen.
+
+Was unterscheidet den kreativen Prozess der Komposition vom kreativen Prozess des Schreibens?
+
+Die Notation? Fast alle Menschen lernen Schreiben und lesen  einer Sprache. Aber längst nicht alle können Noten lesen und schreiben und dann auch noch ein Instrument nutzen, um das Geschriebene in Klang zu übersetzen. 
+
+Wie kann Musik genutzt werden um *Informationen* zu vermitteln? Kann sie dazu dienen, eine umfassende Beschreibung eines Berichtes in kürzerer Zeit zu vermitteln? Würde es reichen, die Information „Börsencrash“ mit den Eingangstakten von Beethovens‘ 5. Sinfonie zu vermitteln? Sicher - aber *wieviel* man gerade verloren hat, sicher nicht.
+
+Wenn in einem Buch (nicht Film) also Musik erklingen soll, welche Rolle kann sie also einnehmen?
+
+Erste Vorstellung:
+Die Seite wird umgeblättert und es ertönt eine kurze Melodie. Das Kapitel stellt den Protagonisten des Buches vor - es ist am Beginn des Buches angesiedelt. Sein musikalisches Motiv ist mit ihm verknüpft. Wie das Motiv des ‚Weißen Hai‘ oder Lara‘s Theme aus Dr. Schiwago.
+
+Zweite Vorstellung:
+Die Fahrt in einer Eisenbahn oder einem Auto bzw. ein Flug wird entsprechend musikalisch untermalt. 
+
+Dritte Vorstellung:
+Nicht der Autor des Buches, sondern der Leser legt die Musik fest. Das passiert recht häufig, hat aber nichts mit dem neuen Buch an sich zu tun.
+
+Vierte Vorstellung:
+Aus dem Buchtext wird Musik generiert. Ein Programm setzt z.B. aus der Sentiment-Analyse des Textes ein Musikstück. Es wird kapitelweise erzeugt. 
